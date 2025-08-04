@@ -9,6 +9,7 @@
 - Building fullstack web apps using PHP, JavaScript, and MySQL
 - Exploring Laravel and modern backend frameworks
 - Developing small indie games with Unity and Godot
+- Developing mobile apps using Flutter
 
 ## 🎮 Game Projects
 
@@ -18,20 +19,21 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** PHP, JavaScript, C#, Dart, Python, GDScript  
+**Languages:** PHP, JavaScript, C#, Dart, Python, GDScript, C  
 **Frameworks & Engines:** Laravel, Unity, Godot, Flutter, Flask  
-**Tools:** Git, GitHub, VS Code, Firebase, XAMPP, Blender (basics)
+**Tools:** Git, GitHub, VS Code, MongoDB, Docker, Postman, MySQL, Blender (basics), PyCharm, PHPStrom
 
 ## 📂 Featured Projects
 
-- [Flappy Bird Clone](https://github.com/your-repo) – A Unity remake of the classic game  
-- [My Game Engine](https://github.com/your-repo) – A basic 2D game engine built with C#  
-- [Godot Game](https://github.com/your-repo) – A simple 2D platformer using Godot
+- [Backend server](https://github.com/Drkiller325/the_brave_six) – A microservice archetechture server for a multiplayer game.
+- [My Game Engine](https://github.com/Drkiller325/GameEngine) – A basic 2D game engine built with C#  
+- [Godot Game](https://github.com/Drkiller325/Heros_of_tomorrow) – A simple 2D Topdown RPG using Godot
+- [PHP Blog](https://github.com/Drkiller325/php_blog) - a blog made entirely in PHP
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-al-haj-244157300)  
+- 📧 Email: ahmed.alhaj@isa.utm.md
 
 ---
 
