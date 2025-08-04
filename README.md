@@ -39,4 +39,4 @@
 ---
 
 <!-- Optional GitHub stats -->
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drkiller325&show_icons=true&theme=tokyonight)
