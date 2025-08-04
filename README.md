@@ -29,6 +29,7 @@
 - [My Game Engine](https://github.com/Drkiller325/GameEngine) – A basic 2D game engine built with C#  
 - [Godot Game](https://github.com/Drkiller325/Heros_of_tomorrow) – A simple 2D Topdown RPG using Godot
 - [PHP Blog](https://github.com/Drkiller325/php_blog) - a blog made entirely in PHP
+- [AI Teaching bot](https://github.com/Drkiller325/AI_Teaching_bot) - an AI powered teaching platform using the latest generative ai models
 
 ## 📫 Connect with Me
 
