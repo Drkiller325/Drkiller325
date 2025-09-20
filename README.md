@@ -35,6 +35,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-al-haj-244157300)  
 - 📧 Email: ahmed.alhaj@isa.utm.md
+- 📲 WhatApp: +373666270
 
 ---
 
