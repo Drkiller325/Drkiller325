@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Al Haj
 
 🎓 Bachelor's in Software Engineering  
-💻 Currently learning **PHP** and **fullstack web development**  
+💻 Currently learning **PHP**, **ASP.NET** and **fullstack web development**  
 🎮 Also passionate about **game development**
 
 ## 🚀 What I'm Working On
