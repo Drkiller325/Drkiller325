@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm Working On
 
-- Building fullstack web apps using PHP, JavaScript, and MySQL
+- Building fullstack web apps using PHP,ASP.NET, JavaScript, and MySQL
 - Exploring Laravel and modern backend frameworks
 - Developing small indie games with Unity and Godot
 - Developing mobile apps using Flutter
